@@ -6,8 +6,8 @@
 </head>
 
 <body>
-<h1>Elephant's Foot (probably change this title to something more interesting)</h1>
-  <h4><p>write some info to go here</p></h4>
+<h1>Chernobyl's Legacy: The Elephant's Foot</h1>
+  <h4>Though the Chernobyl tragedy occured almost 38 years ago, a remaining lump of radioactive material still poses a threat today.</p></h4>
   
   <h3>Contents</h3>
   <!-- the linking thing is a SCAM ill fix it later -->

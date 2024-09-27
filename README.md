@@ -8,11 +8,6 @@
 
 <body>
 
-<style>
-body {
-  background-color: white;
-}
-</style>
 
   
 <h1>Chernobyl's Legacy: The Elephant's Foot</h1>
